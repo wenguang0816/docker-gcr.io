@@ -1,1 +1,1 @@
-from gcr.io/kf-pipeline-contrib/sklearn
+FROM gcr.io/kf-pipeline-contrib/sklearn
